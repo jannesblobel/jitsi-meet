@@ -69,10 +69,6 @@
   ],
   "plugin.inlang.i18next": {
     "pathPattern": "./lang/main-{languageTag}.json",
-    "sourceLanguageFilePath": "./lang/main.json",
-    "variableReferencePattern": [
-      "{{",
-      "}}"
-    ]
+    "sourceLanguageFilePath": "./lang/main.json"
   }
 }
