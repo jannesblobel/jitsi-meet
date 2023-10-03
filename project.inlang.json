@@ -1,8 +1,6 @@
 {
   "$schema": "https://inlang.com/schema/project-settings",
   "sourceLanguageTag": "en",
-  "$schema": "https://inlang.com/schema/project-settings",
-  "sourceLanguageTag": "en",
   "languageTags":[
     "af",
     "ar",
@@ -16,7 +14,6 @@
     "el",
     "eo",
     "es",
-    "esUS",
     "et",
     "eu",
     "fa",
@@ -38,7 +35,6 @@
     "oc",
     "pl",
     "pt",
-    "ptBR",
     "ro",
     "ru",
     "sc",
