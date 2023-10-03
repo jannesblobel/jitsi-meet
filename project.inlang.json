@@ -14,13 +14,11 @@
     "el",
     "eo",
     "es",
-    "esUS",
     "et",
     "eu",
     "fa",
     "fi",
     "fr",
-    "frCA",
     "gl",
     "he",
     "hi",
@@ -38,7 +36,6 @@
     "oc",
     "pl",
     "pt",
-    "ptBR",
     "ro",
     "ru",
     "sc",
@@ -50,9 +47,7 @@
     "te",
     "tr",
     "uk",
-    "vi",
-    "zhCN",
-    "zhTW"
+    "vi"
 ],
   "modules": [
     "https://cdn.jsdelivr.net/npm/@inlang/plugin-i18next@4/dist/index.js",
